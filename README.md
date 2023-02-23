@@ -1,18 +1,17 @@
-# 03 - UFCD-0782 - F7 - Ex10
+# 03 - UFCD-0782 - F7 - Ex11
 Este exercício é escrito em C, será testado com o make e um script bash.
 
 ### O Exercício
-Escreva um programa para calcular o tempo de viagem de um carro. O programa deve
-perguntar ao utilizador a distância da viagem em km e a velocidade média do carro em
-km/h. No final, o programa deve calcular o tempo de viagem em horas.
-
+Escreva um programa para calcular a área de uma casa. O programa deve perguntar ao
+utilizador as medidas da largura e comprimento da casa. No final, o programa deve calcular
+e exibir a área da casa..
 
 ### Saída Esperada:
-Qual a distância da viagem em km?  
-500 ↵  
-Qual a velocidade média do carro em km/h?  
-80 ↵  
-O tempo de viagem será de aproximadamente 6.25 horas.  
+Qual a largura da casa em metros?  
+15 ↵  
+Qual o comprimento da casa em metros?  
+20 ↵  
+A área da casa é de 300.00 metros quadrados.  
  
 ### Notas
 - o teste verificará se a saída do programa é exatamente a esperada.  
